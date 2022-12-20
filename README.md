@@ -1,2 +1,2 @@
-# HF-Course
+# HF-course
 https://huggingface.co/course
